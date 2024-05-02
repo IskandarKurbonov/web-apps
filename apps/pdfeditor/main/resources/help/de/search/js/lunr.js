@@ -1,8 +1,17 @@
-/**
- * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.1.5
- * Copyright (C) 2017 Oliver Nightingale
- * @license MIT
- */
+//  Copyright (C) 2017 Oliver Nightingale
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 ;(function(){
 

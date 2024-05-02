@@ -1,3 +1,17 @@
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 // An example Backbone application contributed by
 // [Jérôme Gravel-Niquet](http://jgn.me/). This demo uses a simple
 // [LocalStorage adapter](backbone-localstorage.html)

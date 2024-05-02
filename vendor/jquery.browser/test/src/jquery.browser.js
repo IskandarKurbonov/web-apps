@@ -1,17 +1,18 @@
-/*!
- * jQuery Browser Plugin v0.0.5
- * https://github.com/gabceb/jquery-browser-plugin
- *
- * Original jquery-browser code Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors
- * http://jquery.org/license
- *
- * Modifications Copyright 2013 Gabriel Cebrian
- * https://github.com/gabceb
- *
- * Released under the MIT license
- *
- * Date: 2013-07-29T17:23:27-07:00
- */
+//  Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors
+//  Copyright 2013 Gabriel Cebrian
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 (function( jQuery, window, undefined ) {
 "use strict";

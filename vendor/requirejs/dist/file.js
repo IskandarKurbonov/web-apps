@@ -1,8 +1,17 @@
-/**
- * @license Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.
- * Available via the MIT or new BSD license.
- * see: http://github.com/jrburke/requirejs for details
- */
+//  Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 /*jslint plusplus: false, octal:false, strict: false */
 /*global require: false, exports: false */

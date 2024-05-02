@@ -1,3 +1,17 @@
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 //     Backbone.js 1.1.0
 
 //     (c) 2010-2011 Jeremy Ashkenas, DocumentCloud Inc.

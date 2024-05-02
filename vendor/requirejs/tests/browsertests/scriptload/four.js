@@ -1,3 +1,17 @@
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 //Add in a bunch of filler, to make the file bigger to download
 
 var foo = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a elit turpis. Vivamus viverra sodales aliquam. Sed eu auctor tortor. Fusce massa mi, tincidunt vel dignissim eu, aliquam sit amet orci. Pellentesque at dolor ac quam lacinia tincidunt eget at leo. Fusce vitae velit vel nisi tincidunt lacinia nec vel leo. Aliquam erat volutpat. Praesent et arcu nulla, quis varius libero. Phasellus sed sollicitudin velit. Suspendisse posuere, diam vitae semper hendrerit, tortor est commodo dui, vel ornare lacus sem sed erat. Vestibulum non urna sed arcu lacinia blandit et sit amet leo. Nulla vehicula, lacus sed vestibulum volutpat, nulla ipsum imperdiet eros, nec accumsan velit risus ut sem. Phasellus a massa id tortor auctor sollicitudin ut ut mauris. Aliquam dolor tortor, suscipit sit amet pulvinar in, facilisis vel orci. Nunc ut mi sit amet velit rutrum aliquam nec et turpis." +

@@ -1,8 +1,18 @@
-/**
- * @license RequireJS text 2.0.10 Copyright (c) 2010-2012, The Dojo Foundation All Rights Reserved.
- * Available via the MIT or new BSD license.
- * see: http://github.com/requirejs/text for details
- */
+//  Copyright (c) 2010-2012, The Dojo Foundation All Rights Reserved.
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 /*jslint regexp: true */
 /*global require, XMLHttpRequest, ActiveXObject,
   define, window, process, Packages,

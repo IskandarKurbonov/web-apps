@@ -1,6 +1,18 @@
-/* Copyright (c) 2012, 2014 Hyeonje Alex Jun and other contributors
- * Licensed under the MIT License
- */
+//  Copyright (c) 2012, 2014 Hyeonje Alex Jun and other contributors
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 (function (factory) {
   'use strict';
 
