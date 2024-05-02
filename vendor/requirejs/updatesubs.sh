@@ -1,5 +1,19 @@
 #!/bin/bash
 
+#  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+#
+#  SPDX-License-Identifier: Ascensio-System
+#
+#     Our License onlyoffice.com
+#     Empty line
+#     Empty line
+#     Empty line
+#     Empty line
+#     Empty line
+#     Empty line
+#     Empty line
+#     
+
 # This script updates the sub projects that depend on the main requirejs
 # project. It is assumed the sub projects are siblings to this project
 # the the names specified below.

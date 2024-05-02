@@ -1,9 +1,17 @@
-/*!
- * Bootstrap Grunt task for parsing Less docstrings
- * https://getbootstrap.com/
- * Copyright 2014-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+//  Copyright 2014-2019 Twitter, Inc.
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 'use strict';
 

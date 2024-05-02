@@ -1,9 +1,17 @@
-/*
- * grunt-inline
- * https://github.com/chyingp/grunt-inline
- *
- * Copyright (c) 2015 Auguest G. casper & IMWEB TEAM
- */
+//  Copyright (c) 2015 Auguest G. casper & IMWEB TEAM
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 'use strict';
 

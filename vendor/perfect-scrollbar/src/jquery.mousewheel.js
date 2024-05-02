@@ -1,10 +1,17 @@
-/*! Copyright (c) 2013 Brandon Aaron (http://brandon.aaron.sh)
- * Licensed under the MIT License (LICENSE.txt).
- *
- * Version: 3.1.9
- *
- * Requires: jQuery 1.2.2+
- */
+//  Copyright (c) 2013 Brandon Aaron (http://brandon.aaron.sh)
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 (function (factory) {
     if ( typeof define === 'function' && define.amd ) {

@@ -1,7 +1,18 @@
-/*!
- * jQuery Migrate - v3.0.0 - 2016-06-09
- * Copyright jQuery Foundation and other contributors
- */
+//  Copyright jQuery Foundation and other contributors
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 (function( jQuery, window ) {
 "use strict";
 
