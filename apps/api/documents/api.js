@@ -1,8 +1,16 @@
-/**
- * Copyright (c) Ascensio System SIA 2013. All rights reserved
- *
- * http://www.onlyoffice.com
- */
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 ;(function(DocsAPI, window, document, undefined) {
 
