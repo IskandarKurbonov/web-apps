@@ -1,12 +1,17 @@
-/**
- * QUnit v1.12.0 - A JavaScript Unit Testing Framework
- *
- * http://qunitjs.com
- *
- * Copyright 2013 jQuery Foundation and other contributors
- * Released under the MIT license.
- * https://jquery.org/license/
- */
+//  Copyright 2013 jQuery Foundation and other contributors
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 (function( window ) {
 

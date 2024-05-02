@@ -2,15 +2,21 @@
 
 'use strict';
 
-/*!
- * Script to generate SRI hashes for use in our docs.
- * Remember to use the same vendor files as the CDN ones,
- * otherwise the hashes won't match!
- *
- * Copyright 2017-2019 The Bootstrap Authors
- * Copyright 2017-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+//  Copyright 2017-2019 The Bootstrap Authors
+//  Copyright 2017-2019 Twitter, Inc.
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 var crypto = require('crypto');
 var fs = require('fs');

@@ -1,13 +1,18 @@
-/**
- * Mega pixel image rendering library for iOS6 Safari
- *
- * Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel),
- * which causes unexpected subsampling when drawing it in canvas.
- * By using this library, you can safely render the image with proper stretching.
- *
- * Copyright (c) 2012 Shinichi Tomita <shinichi.tomita@gmail.com>
- * Released under the MIT license
- */
+//  Copyright (c) 2012 Shinichi Tomita <shinichi.tomita@gmail.com>
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 (function() {
 
   /**

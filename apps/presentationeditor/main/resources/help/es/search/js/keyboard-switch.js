@@ -1,3 +1,17 @@
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 $(function(){
     function shortcutToggler(enabled,disabled,enabled_opt,disabled_opt){
         var selectorTD_en = '.keyboard_shortcuts_table tr td:nth-child(' + enabled + ')',

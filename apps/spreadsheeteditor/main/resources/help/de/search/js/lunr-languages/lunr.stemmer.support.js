@@ -1,11 +1,17 @@
-/*!
- * Snowball JavaScript Library v0.3
- * http://code.google.com/p/urim/
- * http://snowball.tartarus.org/
- *
- * Copyright 2010, Oleg Mazko
- * http://www.mozilla.org/MPL/
- */
+//  Copyright 2010, Oleg Mazko
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 /**
  * export the module via AMD, CommonJS or as a browser global
