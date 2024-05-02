@@ -1,10 +1,18 @@
-/*!
- * Lunr languages, `German` language
- * https://github.com/MihaiValentin/lunr-languages
- *
- * Copyright 2014, Mihai Valentin
- * http://www.mozilla.org/MPL/
- */
+//  Copyright 2014, Mihai Valentin
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 /*!
  * based on
  * Snowball JavaScript Library v0.3

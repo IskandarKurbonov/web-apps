@@ -1,9 +1,18 @@
-/*!
- * QUnit Extras v1.4.1
- * Copyright 2011-2015 John-David Dalton <http://allyoucanleet.com/>
- * Based on a gist by Jörn Zaefferer <https://gist.github.com/722381>
- * Available under MIT license <http://mths.be/mit>
- */
+//  Copyright 2011-2015 John-David Dalton <http://allyoucanleet.com/>
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 ;(function() {
 
   /** Used as a safe reference for `undefined` in pre ES5 environments. */

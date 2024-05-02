@@ -1,17 +1,18 @@
-/*
- * Lazy Load - jQuery plugin for lazy loading images
- *
- * Copyright (c) 2007-2012 Mika Tuupola
- *
- * Licensed under the MIT license:
- *   http://www.opensource.org/licenses/mit-license.php
- *
- * Project home:
- *   http://www.appelsiini.net/projects/lazyload
- *
- * Version:  1.7.2
- *
- */
+//  Copyright (c) 2007-2012 Mika Tuupola
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 (function($, window) {
 
     $window = $(window);

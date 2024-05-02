@@ -1,3 +1,17 @@
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 //Use a property on require so if the test runs in node, it is visible.
 //Remove it when done with the test.
 require.relativeBaseUrlCounter = 0;

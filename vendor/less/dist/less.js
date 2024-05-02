@@ -1,12 +1,17 @@
-/**
- * Less - Leaner CSS v4.1.2
- * http://lesscss.org
- * 
- * Copyright (c) 2009-2021, Alexis Sellier <self@cloudhead.net>
- * Licensed under the Apache-2.0 License.
- *
- * @license Apache-2.0
- */
+//  Copyright (c) 2009-2021, Alexis Sellier <self@cloudhead.net>
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
 
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :

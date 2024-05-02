@@ -1,13 +1,18 @@
-/**
- * Mega pixel image rendering library for iOS6 Safari
- *
- * Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel),
- * which causes unexpected subsampling when drawing it in canvas.
- * By using this library, you can safely render the image with proper stretching.
- *
- * Copyright (c) 2012 Shinichi Tomita <shinichi.tomita@gmail.com>
- * Released under the MIT license
- */
+//  Copyright (c) 2012 Shinichi Tomita <shinichi.tomita@gmail.com>
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 (function(){function q(c,a){var b=document.createElement("canvas");r(c,b,a);return b.toDataURL("image/jpeg",a.quality||0.8)}function r(c,a,b){var e=c.naturalWidth,j=c.naturalHeight,f=b.width,g=b.height,m=a.getContext("2d");m.save();b=b.orientation;switch(b){case 5:case 6:case 7:case 8:a.width=g;a.height=f;break;default:a.width=f,a.height=g}a=a.getContext("2d");switch(b){case 2:a.translate(f,0);a.scale(-1,1);break;case 3:a.translate(f,g);a.rotate(Math.PI);break;case 4:a.translate(0,g);a.scale(1,-1);
 break;case 5:a.rotate(0.5*Math.PI);a.scale(1,-1);break;case 6:a.rotate(0.5*Math.PI);a.translate(0,-g);break;case 7:a.rotate(0.5*Math.PI);a.translate(f,-g);a.scale(-1,1);break;case 8:a.rotate(-0.5*Math.PI),a.translate(-f,0)}a=c.naturalWidth;1048576<a*c.naturalHeight?(b=document.createElement("canvas"),b.width=b.height=1,b=b.getContext("2d"),b.drawImage(c,-a+1,0),a=0===b.getImageData(0,0,1,1).data[3]):a=!1;a&&(e/=2,j/=2);a=document.createElement("canvas");a.width=a.height=1024;b=a.getContext("2d");
 var h;h=j;var d=document.createElement("canvas");d.width=1;d.height=h;d=d.getContext("2d");d.drawImage(c,0,0);for(var d=d.getImageData(0,0,1,h).data,n=0,k=h,l=h;l>n;)0===d[4*(l-1)+3]?k=l:n=l,l=k+n>>1;h=l/h;h=0===h?1:h;for(d=0;d<j;){n=d+1024>j?j-d:1024;for(k=0;k<e;){l=k+1024>e?e-k:1024;b.clearRect(0,0,1024,1024);b.drawImage(c,-k,-d);var p=k*f/e<<0,q=Math.ceil(l*f/e),r=d*g/j/h<<0,s=Math.ceil(n*g/j/h);m.drawImage(a,0,0,l,n,p,r,q,s);k+=1024}d+=1024}m.restore()}function p(c){if(c instanceof Blob){var a=

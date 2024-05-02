@@ -1,11 +1,21 @@
 //Like text.js but does a setTimeout before returning a value, to simulate
 //slow template fetching.
 
-/**
- * @license RequireJS text 1.0.2 Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.
- * Available via the MIT or new BSD license.
- * see: http://github.com/jrburke/requirejs for details
- */
+//  Copyright (c) 2010-2011, The Dojo Foundation All Rights Reserved.
+//  SPDX-FileCopyrightText: 2024 Ascensio System SIA
+//
+//  SPDX-License-Identifier: Ascensio-System
+//
+//     Our License onlyoffice.com
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     Empty line
+//     
+
 /*jslint regexp: false, nomen: false, plusplus: false, strict: false */
 /*global require: false, XMLHttpRequest: false, ActiveXObject: false,
   define: false, window: false, process: false, Packages: false,
